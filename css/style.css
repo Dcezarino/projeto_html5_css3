@@ -1,0 +1,58 @@
+body{
+    background: rgb(215, 231, 238);
+    color: black;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+p{
+    font-family: Verdana;
+    font-size: 18px;
+    color: black;
+    text-align: justify;
+}
+
+h1{
+    font-family: Verdana;
+}
+
+h2{
+    font-family: Verdana;
+    font-size: 25px;
+}
+
+.cabecalho{
+    text-align: center;
+    color: black;
+}
+
+
+.redessociais{
+    width: 35px;        
+    position: relative;
+    right: -90px;;   
+}
+
+.img_padrao{
+    width:100%;
+}
+
+.logo_contato{
+    width: 30px;  
+    margin-top: 10px;
+}
+#contato{
+    font-family: Verdana;
+    font-style: inherit;
+    font-size: 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;    
+}
+
+.logo_empresa{
+    width: 15px;  
+}
+
+
+
